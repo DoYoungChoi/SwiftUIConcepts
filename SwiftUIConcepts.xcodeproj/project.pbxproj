@@ -15,6 +15,7 @@
 		D825C26E29909FFD00451898 /* AlternativeContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D825C26D29909FFD00451898 /* AlternativeContentView.swift */; };
 		D825C2702990AEF900451898 /* MyScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = D825C26F2990AEF900451898 /* MyScene.swift */; };
 		D825C2722990AF2500451898 /* MyAlternativeScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = D825C2712990AF2500451898 /* MyAlternativeScene.swift */; };
+		D825C2742990C0D300451898 /* KeywordBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = D825C2732990C0D300451898 /* KeywordBubble.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		D825C26D29909FFD00451898 /* AlternativeContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlternativeContentView.swift; sourceTree = "<group>"; };
 		D825C26F2990AEF900451898 /* MyScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyScene.swift; sourceTree = "<group>"; };
 		D825C2712990AF2500451898 /* MyAlternativeScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAlternativeScene.swift; sourceTree = "<group>"; };
+		D825C2732990C0D300451898 /* KeywordBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeywordBubble.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				D825C26D29909FFD00451898 /* AlternativeContentView.swift */,
 				D825C26F2990AEF900451898 /* MyScene.swift */,
 				D825C2712990AF2500451898 /* MyAlternativeScene.swift */,
+				D825C2732990C0D300451898 /* KeywordBubble.swift */,
 			);
 			path = SwiftUIConcepts;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				D825C26E29909FFD00451898 /* AlternativeContentView.swift in Sources */,
 				D825C26C29909D7100451898 /* SettingsView.swift in Sources */,
 				D825C2702990AEF900451898 /* MyScene.swift in Sources */,
+				D825C2742990C0D300451898 /* KeywordBubble.swift in Sources */,
 				D825C26029909C6E00451898 /* ContentView.swift in Sources */,
 				D825C2722990AF2500451898 /* MyAlternativeScene.swift in Sources */,
 				D825C25E29909C6E00451898 /* SwiftUIConceptsApp.swift in Sources */,
