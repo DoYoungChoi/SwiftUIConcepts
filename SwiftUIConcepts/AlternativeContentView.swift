@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  AlternativeContentView.swift
 //  SwiftUIConcepts
 //
 //  Created by Do-Young Choi on 2023/02/06.
@@ -7,20 +7,20 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct AlternativeContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundColor(.accentColor)
-            Text("Content")
+            Text("Alternative Content")
         }
         .padding()
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct AlternativeContentView_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        AlternativeContentView()
     }
 }
