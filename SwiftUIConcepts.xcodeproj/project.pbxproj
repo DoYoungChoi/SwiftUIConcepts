@@ -18,6 +18,7 @@
 		D825C2762990C91C00451898 /* CaptionedPhoto.swift in Sources */ = {isa = PBXBuildFile; fileRef = D825C2752990C91C00451898 /* CaptionedPhoto.swift */; };
 		D825C2782990C9B100451898 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D825C2772990C9B100451898 /* Assets.xcassets */; };
 		D825C27A2990D3D000451898 /* IfElseTrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = D825C2792990D3D000451898 /* IfElseTrain.swift */; };
+		D825C27C2990FD4600451898 /* EventTile.swift in Sources */ = {isa = PBXBuildFile; fileRef = D825C27B2990FD4600451898 /* EventTile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		D825C2752990C91C00451898 /* CaptionedPhoto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CaptionedPhoto.swift; sourceTree = "<group>"; };
 		D825C2772990C9B100451898 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../Downloads/layering-content/CaptionedPhoto/Assets.xcassets"; sourceTree = "<group>"; };
 		D825C2792990D3D000451898 /* IfElseTrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfElseTrain.swift; sourceTree = "<group>"; };
+		D825C27B2990FD4600451898 /* EventTile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventTile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				D825C2732990C0D300451898 /* KeywordBubble.swift */,
 				D825C2752990C91C00451898 /* CaptionedPhoto.swift */,
 				D825C2792990D3D000451898 /* IfElseTrain.swift */,
+				D825C27B2990FD4600451898 /* EventTile.swift */,
 			);
 			path = SwiftUIConcepts;
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				D825C26E29909FFD00451898 /* AlternativeContentView.swift in Sources */,
 				D825C26C29909D7100451898 /* SettingsView.swift in Sources */,
 				D825C2702990AEF900451898 /* MyScene.swift in Sources */,
+				D825C27C2990FD4600451898 /* EventTile.swift in Sources */,
 				D825C2742990C0D300451898 /* KeywordBubble.swift in Sources */,
 				D825C26029909C6E00451898 /* ContentView.swift in Sources */,
 				D825C2722990AF2500451898 /* MyAlternativeScene.swift in Sources */,
